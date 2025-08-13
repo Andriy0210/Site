@@ -1,1 +1,18 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: rgb(232, 232, 232);
+    background-image: url(https://learn.logikaschool.com/uploads/student/5862638/688e4d651d311.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
 
+header {
+    text-align:center;
+}
+
+table {
+    border-collapse: collapse;
+}
