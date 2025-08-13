@@ -16,3 +16,15 @@ header {
 table {
     border-collapse: collapse;
 }
+
+h1 {
+    font-size:50px;
+}
+
+main {
+    font-size:20px;
+}
+
+h2 {
+    font-size:40px;
+}
